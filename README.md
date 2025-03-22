@@ -1,7 +1,8 @@
 ## 🙋🏼 ABOUT ME
-My name is Gonzalo Torres Aparicio,I am a full-stack developer, but I enjoy working more on the backend. I have experience with the most widely used technologies and environments in the market.
-I have recently finished my degree in Computer Engineering in the bilingual program and I am about to start an internship at NTT Data.
-I have also participated in several software development projects, both in my studies following the SCRUM framework and on my own.
+My name is Gonzalo Torres Aparicio,I am a full-stack developer, but I enjoy working more on the backend. <br>
+I have experience with the most widely used technologies and environments in the market.<br>
+Recently I've finished my degree in Computer Engineering in the bilingual program and I am about to start an internship at NTT Data.<br>
+I have also participated in several software development projects, during my current internship, in the university following the SCRUM framework, and some hobbie projects on my own.<br>
 
 
 ## 👨🏼‍💻 MY PORTFOLIO: ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)

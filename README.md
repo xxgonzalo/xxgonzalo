@@ -8,7 +8,7 @@ I have also participated in several software development projects, both in my st
 https://portfolio-gonzalo-2025.web.app/index.html#skills
 
 ## 📂 PROYECTS
-Planify: https://planify-2025.web.app/home
+Planify: https://planify-2025.web.app/home <br>
 Noteify: https://noteify-p50y.onrender.com
 
 ## 🌐 SOCIALS:

@@ -1,5 +1,15 @@
+## 🙋🏼 ABOUT ME
+My name is Gonzalo Torres Aparicio,I am a full-stack developer, but I enjoy working more on the backend. I have experience with the most widely used technologies and environments in the market.
+I have recently finished my degree in Computer Engineering in the bilingual program and I am about to start an internship at NTT Data.
+I have also participated in several software development projects, both in my studies following the SCRUM framework and on my own.
+
+
 ## 👨🏼‍💻 MY PORTFOLIO: ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 https://portfolio-gonzalo-2025.web.app/index.html#skills
+
+## 📂 PROYECTS
+Planify: https://planify-2025.web.app/home
+Noteify: https://noteify-p50y.onrender.com
 
 ## 🌐 SOCIALS:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalotorresaparicio)

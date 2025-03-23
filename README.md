@@ -1,7 +1,7 @@
 ## 🙋🏼 ABOUT ME
-My name is Gonzalo Torres Aparicio,I am a full-stack developer, but I enjoy working more on the backend. <br>
+My name is Gonzalo Torres Aparicio,I am a full-stack developer, but I prefer working on backend. <br>
 I have experience with the most widely used technologies and environments in the market.<br>
-Recently I've finished my degree in Computer Engineering in the bilingual program and I am about to start an internship at NTT Data.<br>
+Recently I've finished my bilingual degree in Computer Engineering and I have started internship at NTT Data.<br>
 I have also participated in several software development projects, during my current internship, in the university following the SCRUM framework, and some hobbie projects on my own.<br>
 
 
